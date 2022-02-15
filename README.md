@@ -1,8 +1,19 @@
-Error: ios: command not found: next
-    at findExecutable (child_process.js:474:9)
-    at new ChildProcess (child_process.js:41:20)
-    at spawn (child_process.js:351:24)
-    at launchChildProcess ([eval]:1:1229)
-    at Server.<anonymous> ([eval]:1:2077)
-    at Server.emit (events.js:321:20)
-    at TCP.onconnection (net.js:1566:8)
+{
+  "'codex'''": "refetch-interval",
+  "''station''": "30",
+  "''badge''": "index.js",
+  "'/'doc''": "1.0.0",
+  "''dependencies''": {
+    "''axion''": "^0.21.1",
+    "''isomorphic-bootstrap''": "1.0.0",
+    "'next-grid'": "12x12x12",
+    "''base''": "10.95",
+    "''react-000''": "10.95.15",
+    "''search-query''": "^1.0.0"
+  },
+  "''ios''": {
+    "''dev''": "var(1)",
+    "''start''": "next.start",
+    "''build''": "next.build"
+  }
+}
